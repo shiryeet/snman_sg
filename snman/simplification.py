@@ -466,32 +466,12 @@ def connect_components_in_intersections(G, intersections_gdf, separate_layers=Tr
                 # join with the nearest points
                 joined = gpd.sjoin_nearest(a, b, distance_col="distance")
 
-                #added 1
-                if joined.empty:
+                # skip if no matches found or if required columns are missing
+                if len(joined) == 0 or 'index_right' not in joined.columns:
                     continue
-
-                '''
-                print("debug joined columns", joined.columns)
-                print("debug joined head", joined.head())
-                '''
-                # added 1 //
 
                 joined['node_a'] = joined.index
-
-                #added2
-                if "index_right" in joined.columns:
-                    joined["node_b"] = joined["index_right"]
-                elif "osmid_right" in joined.columns:
-                    joined["node_b"] = joined["osmid_right"]
-                else:
-                    continue
-
-                joined = joined.dropna(subset=['node_b'])
-                if joined.empty:
-                    continue
-                #added 2 //
-
-               # joined = joined.rename(columns={"index_right": "node_b"})
+                joined = joined.rename(columns={"index_right": "node_b"})
 
 
                 # get the closest pair

@@ -1,3 +1,13 @@
 */cache/*
 private/*
 .*
+# python
+__pycache__/
+*.pyc
+
+# generated outputs
+outputs/
+process/
+
+# qgis / GIS artifacts
+*.qmd

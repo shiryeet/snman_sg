@@ -74,6 +74,9 @@ def create_access_graph(
     # build possible location-street pairs
     #L_edges = oxc.utils_graph.graph_to_gdfs(L, nodes=False).query(f'lanetype=="{lanetype}"')
 
+    if len(A) == 0:
+        return A
+
     A_nodes = oxc.utils_graph.graph_to_gdfs(A, edges=False)
     has_parking_spots = A_nodes.query("type=='has_parking_spots'")
     has_parking_spots['supply_id'] = has_parking_spots.index
