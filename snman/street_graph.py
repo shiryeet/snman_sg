@@ -491,7 +491,7 @@ def add_pseudo_cycling_lanes(G, lanes_description=KEY_LANES_DESCRIPTION):
         for direction in [DIRECTION_FORWARD, DIRECTION_BACKWARD]:
             cycling_cost = calculate_edge_cost(G, *uvk, direction, MODE_CYCLING, lanes_description=lanes_description)
 
-            if cycling_cost == np.Inf:
+            if cycling_cost == np.inf:
                 lanes.append(space_allocation.Lane(LANETYPE_CYCLING_PSEUDO, direction))
 
 

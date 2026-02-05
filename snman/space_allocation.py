@@ -1025,15 +1025,15 @@ def _calculate_lane_cost(
     """
 
     if include_tentative and lane.status != STATUS_FIXED:
-        return np.Inf
+        return np.inf
 
     # if this lane can not carry the specified mode, return infinity
     if mode not in lane.get_modes():
-        return np.Inf
+        return np.inf
 
     # if this lane is not accessible in the specified direction, return infinity
     if lane.direction not in {direction}.union(ALTERNATIVE_DIRECTIONS.get(direction, set())):
-        return np.Inf
+        return np.inf
 
     # apply the cycling cost factor if the mode is cycling
     elif mode in [MODE_CYCLING, MODE_PEDELEC, MODE_S_PEDELEC]:
