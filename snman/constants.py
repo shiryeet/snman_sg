@@ -338,8 +338,8 @@ OSM_FILTER = [
     #    f'escalator|planned|platform|proposed|raceway|construction"]'
     #)
 ]
-
-DEFAULT_CRS = 'epsg:2056'
+# changed from 2056 to 3414
+DEFAULT_CRS = 'epsg:3414'
 
 EXPORT_EDGE_COLUMNS = [
     'grade',

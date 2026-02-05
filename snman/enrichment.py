@@ -105,7 +105,8 @@ def match_linestrings(
         return
 
     # create empty in-memory map for the mapmatching process
-    map_con = InMemMap("source", use_latlon=False, use_rtree=True, index_edges=True, crs_xy=2056)
+    # changed crs_xy from 2056 to 3414!
+    map_con = InMemMap("source", use_latlon=False, use_rtree=True, index_edges=True, crs_xy=3414)
 
     # add nodes to the in-memory map
     # please note that lv works with lat, lon (reverse order)

@@ -27,7 +27,7 @@ def get_cheapest_edge_between_nodes(L, u, v, weight='cost_private_cars'):
     return (u, v, key), edges[key]
 
 
-def shortest_path(L, u, v, weight='cost_private_cars', include_geometry=True, crs=2056):
+def shortest_path(L, u, v, weight='cost_private_cars', include_geometry=True, crs=3414):
     """
     Calculates the shortest path between u and v.
 
@@ -73,7 +73,7 @@ def shortest_path(L, u, v, weight='cost_private_cars', include_geometry=True, cr
         }
 
 
-def shortest_paths(L, uv_pairs, weight='cost_private_cars', include_geometry=True, crs=2056):
+def shortest_paths(L, uv_pairs, weight='cost_private_cars', include_geometry=True, crs=3414):
     """
     Calculates the shortest paths for pairs of u and v.
 
@@ -104,7 +104,7 @@ def detour_metrics_for_origin(
         L, origin, destinations, weight='cost_private_cars',
         include_forward_direction=True,
         include_opposite_direction=False,
-        include_geometry=False, crs=2056
+        include_geometry=False, crs=3414
 ):
     """
     Calculates detour metrics for a given origin.
