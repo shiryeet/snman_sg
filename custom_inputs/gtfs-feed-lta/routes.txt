@@ -1,0 +1,559 @@
+agency_id,route_desc,route_id,route_long_name,route_short_name,route_type,route_url
+SBS,Bus 10 operate from Tampines Bus Interchange to Kent Ridge Bus Terminal.,10,,10,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=10
+SBS,Bus 100 operate from Serangoon Bus Interchange to Ghim Moh Bus Terminal.,100,,100,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=100
+SBS,Bus 100A operate from Serangoon Bus Interchange to Aljunied MRT station.,100A,,100A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=100A
+SBS,Bus 101 operate from Serangoon Bus Interchange to Buangkok Crescent.,101,,101,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=101
+SBS,Bus 102 operate from Hougang Central Bus Interchange to Seletar Airport.,102,,102,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=102
+SBS,Bus 103 operate from Serangoon Bus Interchange to Yishun Bus Interchange.,103,,103,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=103
+SBS,Bus 105 operate from Jurong East Bus Interchange to Serangoon Bus Interchange.,105,,105,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=105
+SBS,Bus 105B operate from Jurong East Bus Interchange to Clementi MRT station.,105B,,105B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=105B
+TTS,Bus 106 operate from Bukit Batok Bus Interchange to Shenton Way Bus Terminal.,106,,106,3,https://towertransit.sg/our-routes/
+TTS,Bus 106A operate from Bukit Batok Bus Interchange to Clementi MRT station.,106A,,106A,3,https://towertransit.sg/our-routes/
+SBS,Bus 107 operate from Hougang Central Bus Interchange to Shenton Way Bus Terminal.,107,,107,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=107
+SBS,Bus 107M operate from Hougang Central Bus Interchange to Marina Centre.,107M,,107M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=107M
+SBS,Bus 109 operate from Serangoon Bus Interchange to Changi Village Bus Terminal.,109,,109,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=109
+SBS,Bus 109A operate from Serangoon Bus Interchange to Hougang Avenue 4.,109A,,109A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=109A
+SBS,Bus 10e operate from [AM Peak] Bedok Road to [AM Peak]Shenton Way.,10e,,10e,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=10e
+SBS,Bus 11 operate from Lorong 1 Geylang Bus Terminal to Rhu Cross.,11,,11,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=11
+SMRT,Bus 110 operate from Compassvale Bus Interchange to Changi Airport.,110,,110,3,http://journey.smrt.com.sg/journey/bus_search/bus/110/
+SBS,Bus 111 operate from Ghim Moh Bus Terminal to Marina Centre.,111,,111,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=111
+SBS,Bus 112 operate from Hougang Central Bus Interchange to Hougang Street 92.,112,,112,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=112
+SBS,Bus 112A operate from Hougang Central Bus Interchange to Kovan MRT station.,112A,,112A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=112A
+SBS,Bus 113 operate from Hougang Central Bus Interchange to Lorong Ah Soo.,113,,113,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=113
+SBS,Bus 113A operate from Upper Serangoon Road to Upper Serangoon Road.,113A,,113A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=113A
+SBS,Bus 114 operate from Buangkok MRT station to Buangkok Crescent.,114,,114,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=114
+SBS,Bus 115 operate from Hougang Street 21 to Hougang Avenue 3.,115,,115,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=115
+SBS,Bus 116 operate from Hougang Central Bus Interchange to Serangoon Central.,116,,116,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=116
+SBS,Bus 116A operate from Serangoon North Avenue 4 to Serangoon Central.,116A,,116A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=116A
+SBS,Bus 117 operate from Punggol Bus Interchange to Sembawang Bus Interchange.,117,,117,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=117
+SBS,Bus 117A operate from Yishun Avenue 1 to Yishun Avenue 2.,117A,,117A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=117A
+GAS,Bus 118 operate from Punggol Bus Interchange to Changi Business Park Bus Terminal.,118,,118,3,https://go-aheadsingapore.com/bus-services/service-118/
+GAS,Bus 118A operate from Tampines Expressway to Simei Avenue.,118A,,118A,3,https://go-aheadsingapore.com/bus-services/service-118A/
+GAS,Bus 118B operate from Simei Avenue to Tampines Expressway.,118B,,118B,3,https://go-aheadsingapore.com/bus-services/service-118B/
+GAS,Bus 119 operate from Punggol Bus Interchange to Hougang Street 21.,119,,119,3,https://go-aheadsingapore.com/bus-services/service-119/
+GAS,Bus 12 operate from Pasir Ris Bus Interchange to Kampong Bahru Bus Terminal.,12,,12,3,https://go-aheadsingapore.com/bus-services/service-12/
+SBS,Bus 120 operate from Kampong Bahru Bus Terminal to Telok Blangah Heights.,120,,120,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=120
+SBS,Bus 121 operate from Kampong Bahru Bus Terminal to Telok Blangah Crescent.,121,,121,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=121
+SBS,Bus 122 operate from Kampong Bahru Bus Terminal to Commonwealth MRT station.,122,,122,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=122
+SBS,Bus 123 operate from Bukit Merah Bus Interchange to Beach Station Terminal.,123,,123,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=123
+SBS,Bus 123M operate from HarbourFront Bus Interchange to Tiong Bahru Road.,123M,,123M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=123M
+SBS,Bus 124 operate from Saint Michael's Bus Terminal to HarbourFront Bus Interchange.,124,,124,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=124
+SBS,Bus 125 operate from Saint Michael's Bus Terminal to Sims Drive.,125,,125,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=125
+SBS,Bus 125A operate from Aljunied Road to MacPherson Road.,125A,,125A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=125A
+SBS,Bus 127 operate from Tampines Bus Interchange to Tampines Industrial Avenue 5.,127,,127,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=127
+SBS,Bus 127A operate from Tampines Bus Interchange to Tampines North Drive 1.,127A,,127A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=127A
+SBS,Bus 129 operate from Tampines Concourse Bus Interchange to Saint Michael's Bus Terminal.,129,,129,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=129
+GAS,Bus 12e operate from Pasir Ris Bus Interchange to Kampong Bahru Bus Terminal.,12e,,12e,3,https://go-aheadsingapore.com/bus-services/service-12e/
+SBS,Bus 13 operate from Yio Chu Kang Bus Interchange to Upper East Coast Bus Terminal.,13,,13,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=13
+SBS,Bus 130 operate from Ang Mo Kio Bus Interchange to Shenton Way Bus Terminal.,130,,130,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=130
+SBS,Bus 130A operate from Ang Mo Kio Bus Interchange to Sin Ming Road.,130A,,130A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=130A
+SBS,Bus 131 operate from Saint Michael's Bus Terminal to Bukit Merah Bus Interchange.,131,,131,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=131
+SBS,Bus 131A operate from Saint Michael's Bus Terminal to Shenton Way.,131A,,131A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=131A
+SBS,Bus 131M operate from Bukit Merah Bus Interchange to Bukit Purmei Avenue.,131M,,131M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=131M
+SBS,Bus 132 operate from Hougang Central Bus Interchange to Bukit Merah Bus Interchange.,132,,132,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=132
+SBS,Bus 133 operate from Ang Mo Kio Bus Interchange to Shenton Way Bus Terminal.,133,,133,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=133
+SBS,Bus 134 operate from Sims Place Bus Terminal to Marine Terrace.,134,,134,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=134
+SBS,Bus 135 operate from Ang Mo Kio Bus Interchange to Kembangan MRT station.,135,,135,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=135
+GAS,Bus 136 operate from Ang Mo Kio Bus Interchange to Punggol Bus Interchange.,136,,136,3,https://go-aheadsingapore.com/bus-services/service-136/
+SBS,Bus 137 operate from Sims Place Bus Terminal to Upper East Coast Bus Terminal.,137,,137,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=137
+SBS,Bus 137A operate from Bedok Stn Exit B to Bedok Nth Stn Exit A.,137A,,137A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=137A
+SBS,Bus 138 operate from Ang Mo Kio Bus Interchange to Singapore Zoo.,138,,138,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=138
+SBS,Bus 138A operate from Ang Mo Kio Bus Interchange to Singapore Zoo.,138A,,138A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=138A
+SBS,Bus 138B operate from Ang Mo Kio Bus Interchange to Ang Mo Kio Avenue 5.,138B,,138B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=138B
+SBS,Bus 139 operate from Toa Payoh Bus Interchange to Bukit Merah Bus Interchange.,139,,139,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=139
+SBS,Bus 139M operate from Toa Payoh Bus Interchange to Jalan Bahagia.,139M,,139M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=139M
+SBS,Bus 13A operate from Ang Mo Kio Avenue 6 to Bishan MRT station.,13A,,13A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=13A
+SBS,Bus 14 operate from Bedok Bus Interchange to Clementi Bus Interchange.,14,,14,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=14
+SBS,Bus 140 operate from Lorong 1 Geylang Bus Terminal to St. Wilfred Road.,140,,140,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=140
+SBS,Bus 141 operate from Lorong 1 Geylang Bus Terminal to Toa Payoh Bus Interchange.,141,,141,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=141
+SBS,Bus 142 operate from Toa Payoh Bus Interchange to Potong Pasir Avenue 1.,142,,142,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=142
+TTS,Bus 143 operate from Jurong East Bus Interchange to Toa Payoh Bus Interchange.,143,,143,3,https://towertransit.sg/our-routes/
+TTS,Bus 143M operate from Jurong East Bus Interchange to Pandan Gardens.,143M,,143M,3,https://towertransit.sg/our-routes/
+SBS,Bus 145 operate from Toa Payoh Bus Interchange to Buona Vista Bus Terminal.,145,,145,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=145
+SBS,Bus 145A operate from Redhill MRT station to Henderson Road.,145A,,145A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=145A
+SBS,Bus 147 operate from Hougang Central Bus Interchange to Clementi Bus Interchange.,147,,147,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=147
+SBS,Bus 147A operate from Hougang Central Bus Interchange to New Bridge Road.,147A,,147A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=147A
+SBS,Bus 14A operate from Bedok Bus Interchange to Grange Road.,14A,,14A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=14A
+SBS,Bus 14e operate from [AM Peak]Bedok North Avenue 3 to [AM Peak]Orchard Road.,14e,,14e,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=14e
+GAS,Bus 15 operate from Pasir Ris Bus Interchange to Marine Parade.,15,,15,3,https://go-aheadsingapore.com/bus-services/service-15/
+SBS,Bus 150 operate from Eunos Bus Interchange to Marine Terrace.,150,,150,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=150
+SBS,Bus 151 operate from Hougang Central Bus Interchange to Kent Ridge Bus Terminal.,151,,151,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=151
+SBS,Bus 151e operate from Hougang Central Bus Interchange to Kent Ridge Bus Terminal.,151e,,151e,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=151e
+SBS,Bus 153 operate from Hougang Central Bus Interchange to Bukit Merah Bus Interchange.,153,,153,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=153
+SBS,Bus 154 operate from Boon Lay Bus Interchange to Eunos Bus Interchange.,154,,154,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=154
+SBS,Bus 154A operate from Yung Ho Road to Boon Lay Way (Lakeside MRT station).,154A,,154A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=154A
+SBS,Bus 154B operate from Boon Lay Bus Interchange to Clementi Road.,154B,,154B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=154B
+SBS,Bus 155 operate from Toa Payoh Bus Interchange to Bedok Bus Interchange.,155,,155,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=155
+SBS,Bus 156 operate from Sengkang Bus Interchange to Clementi Bus Interchange.,156,,156,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=156
+SBS,Bus 157 operate from Toa Payoh Bus Interchange to Boon Lay Bus Interchange.,157,,157,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=157
+SBS,Bus 158 operate from Serangoon Bus Interchange to Tanjong Rhu.,158,,158,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=158
+SBS,Bus 158A operate from Aljunied Road to Aljunied Road.,158A,,158A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=158A
+SBS,Bus 159 operate from Sengkang Bus Interchange to Toa Payoh Bus Interchange.,159,,159,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=159
+SBS,Bus 159A operate from Sengkang Bus Interchange to Ang Mo Kio Avenue 8.,159A,,159A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=159A
+SBS,Bus 159B operate from Ang Mo Kio Avenue 8 to Ang Mo Kio Avenue 5.,159B,,159B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=159B
+GAS,Bus 15A operate from Pasir Ris Bus Interchange to Jalan Eunos.,15A,,15A,3,https://go-aheadsingapore.com/bus-services/service-15A/
+SBS,Bus 16 operate from Bedok Bus Interchange to Bukit Merah Bus Interchange.,16,,16,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=16
+SBS,Bus 160 operate from Jurong East Bus Interchange to JB Sentral Bus Terminal.,160,,160,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=160
+SBS,Bus 160A operate from Jurong East Bus Interchange to Bukit Batok Road.,160A,,160A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=160A
+SBS,Bus 160M operate from Jurong East Bus Interchange to Bukit Batok Road.,160M,,160M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=160M
+SBS,Bus 161 operate from Hougang Central Bus Interchange to Woodlands Bus Interchange.,161,,161,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=161
+SBS,Bus 162 operate from Yio Chu Kang Bus Interchange to Shenton Way Bus Terminal.,162,,162,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=162
+SBS,Bus 162M operate from Yio Chu Kang Bus Interchange to Temasek Avenue.,162M,,162M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=162M
+SBS,Bus 163 operate from Sengkang Bus Interchange to Toa Payoh Bus Interchange.,163,,163,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=163
+SBS,Bus 163A operate from Sengkang Bus Interchange to Fernvale Lane.,163A,,163A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=163A
+SBS,Bus 165 operate from Hougang Central Bus Interchange to Clementi Bus Interchange.,165,,165,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=165
+SBS,Bus 166 operate from Ang Mo Kio Bus Interchange to Clementi Bus Interchange.,166,,166,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=166
+TTS,Bus 167 operate from Bukit Merah Bus Interchange to Sembawang Bus Interchange.,167,,167,3,https://towertransit.sg/our-routes/
+SBS,Bus 168 operate from Bedok Bus Interchange to Woodlands Bus Interchange.,168,,168,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=168
+TTS,Bus 169 operate from Woodlands Bus Interchange to Ang Mo Kio Bus Interchange.,169,,169,3,https://towertransit.sg/our-routes/
+TTS,Bus 169A operate from Woodlands Bus Interchange to Yishun MRT station.,169A,,169A,3,https://towertransit.sg/our-routes/
+TTS,Bus 169B operate from Woodlands Bus Interchange to Woodlands Avenue 8.,169B,,169B,3,https://towertransit.sg/our-routes/
+SBS,Bus 16M operate from Bedok Bus Interchange to Bukit Merah Bus Interchange.,16M,,16M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=16M
+GAS,Bus 17 operate from Pasir Ris Bus Interchange to Bedok Bus Interchange.,17,,17,3,https://go-aheadsingapore.com/bus-services/service-17/
+SBS,Bus 170 operate from Queen Street Bus Terminal to Larkin Sentral.,170,,170,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=170
+SBS,,170A,,170A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=170A
+SBS,Bus 170X operate from Kranji MRT station to JB Sentral Bus Terminal.,170X,,170X,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=170X
+TTS,Bus 171 operate from Yishun Bus Interchange to Upper Bukit Timah Road (Bukit Panjang MRT/LRT station).,171,,171,3,https://towertransit.sg/our-routes/
+SMRT,Bus 172 operate from Choa Chu Kang Bus Interchange to Boon Lay Bus Interchange.,172,,172,3,http://journey.smrt.com.sg/journey/bus_search/bus/172/
+TTS,Bus 173 operate from Bukit Batok Bus Interchange to Clementi Bus Interchange.,173,,173,3,https://towertransit.sg/our-routes/
+TTS,Bus 173A operate from Bukit Batok Bus Interchange to Bukit Batok East Avenue 4.,173A,,173A,3,https://towertransit.sg/our-routes/
+SBS,Bus 174 operate from Boon Lay Bus Interchange to Kampong Bahru Bus Terminal.,174,,174,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=174
+SBS,Bus 174e operate from Boon Lay Bus Interchange to Kampong Bahru Bus Terminal.,174e,,174e,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=174e
+SBS,Bus 175 operate from Clementi Bus Interchange to Lorong 1 Geylang Bus Terminal.,175,,175,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=175
+SMRT,Bus 176 operate from Bukit Panjang Bus Interchange to Bukit Merah Bus Interchange.,176,,176,3,http://journey.smrt.com.sg/journey/bus_search/bus/176/
+TTS,Bus 177 operate from Bukit Batok Bus Interchange to Jelebu Road (Bukit Panjang MRT/LRT station).,177,,177,3,https://towertransit.sg/our-routes/
+SMRT,Bus 178 operate from Woodlands Bus Interchange to Boon Lay Bus Interchange.,178,,178,3,http://journey.smrt.com.sg/journey/bus_search/bus/178/
+SMRT,Bus 178A operate from Woodlands Bus Interchange to Kranji MRT station.,178A,,178A,3,http://journey.smrt.com.sg/journey/bus_search/bus/178A/
+SBS,Bus 179 operate from Boon Lay Bus Interchange to Nanyang Technological University.,179,,179,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=179
+SBS,Bus 179A operate from Boon Lay Bus Interchange to Nanyang Drive.,179A,,179A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=179A
+GAS,Bus 17A operate from Bedok Bus Interchange to Bedok North Depot.,17A,,17A,3,https://go-aheadsingapore.com/bus-services/service-17A/
+SBS,Bus 18 operate from Tampines Concourse Bus Interchange to Bedok Bus Interchange.,18,,18,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=18
+SMRT,Bus 180 operate from Boon Lay Bus Interchange to Bukit Panjang Bus Interchange.,180,,180,3,http://journey.smrt.com.sg/journey/bus_search/bus/180/
+SMRT,Bus 180A operate from Boon Lay Bus Interchange to Bukit Panjang Road.,180A,,180A,3,http://journey.smrt.com.sg/journey/bus_search/bus/180A/
+SBS,Bus 181 operate from Boon Lay Bus Interchange to Jurong West Avenue 3.,181,,181,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=181
+SBS,Bus 181M operate from Boon Lay Bus Interchange to Jurong West Street 23 (Corporation Primary School).,181M,,181M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=181M
+SBS,Bus 182 operate from Joo Koon Bus Interchange to Tuas South Avenue 9.,182,,182,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=182
+SBS,Bus 182M operate from Joo Koon Bus Interchange to Tuas South Avenue 9.,182M,,182M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=182M
+TTS,Bus 183 operate from Jurong East Bus Interchange to Singapore Science Park II.,183,,183,3,https://towertransit.sg/our-routes/
+TTS,Bus 183B operate from Jurong East Bus Interchange to Toh Tuck Avenue.,183B,,183B,3,https://towertransit.sg/our-routes/
+SMRT,Bus 184 operate from Gali Batu Bus Terminal to Clementi MRT statio.,184,,184,3,http://journey.smrt.com.sg/journey/bus_search/bus/184/
+SBS,Bus 185 operate from Soon Lee Bus Park to Buona Vista Bus Terminal.,185,,185,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=185
+SBS,Bus 186 operate from Shenton Way Bus Terminal to Saint Michael's Bus Terminal.,186,,186,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=186
+SMRT,Bus 187 operate from Woodlands Bus Interchange to Boon Lay Bus Interchange.,187,,187,3,http://journey.smrt.com.sg/journey/bus_search/bus/187/
+SMRT,Bus 188 operate from Choa Chu Kang Bus Interchange to HarbourFront Bus Interchange.,188,,188,3,http://journey.smrt.com.sg/journey/bus_search/bus/188/
+SMRT,Bus 188e operate from Choa Chu Kang Bus Interchange to HarbourFront Bus Interchange.,188e,,188e,3,http://journey.smrt.com.sg/journey/bus_search/bus/188e/
+SMRT,Bus 188R operate from Choa Chu Kang Bus Interchange to Resorts World Sentosa.,188R,,188R,3,http://journey.smrt.com.sg/journey/bus_search/bus/188R/
+TTS,Bus 189 operate from Bukit Batok Bus Interchange to Clementi Avenue 1.,189,,189,3,https://towertransit.sg/our-routes/
+TTS,Bus 189A operate from Bukit Batok Bus Interchange to Bukit Batok Street 23.,189A,,189A,3,https://towertransit.sg/our-routes/
+SBS,Bus 19 operate from Tampines Bus Interchange to Changi Airfreight Centre.,19,,19,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=19
+SMRT,Bus 190 operate from Choa Chu Kang Bus Interchange to Kampong Bahru Bus Terminal.,190,,190,3,http://journey.smrt.com.sg/journey/bus_search/bus/190/
+SMRT,Bus 190A operate from Choa Chu Kang Bus Interchange to Dhoby Ghaut MRT station.,190A,,190A,3,http://journey.smrt.com.sg/journey/bus_search/bus/190A/
+SBS,Bus 191 operate from Buona Vista Bus Terminal to Portsdown Road.,191,,191,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=191
+SBS,Bus 192 operate from Boon Lay Bus Interchange to Tuas Bus Terminal.,192,,192,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=192
+SBS,Bus 193 operate from Boon Lay Bus Interchange to Tuas Bus Terminal.,193,,193,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=193
+SBS,Bus 194 operate from Boon Lay Bus Interchange to Jalan Ahmad Ibrahim.,194,,194,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=194
+SBS,Bus 195 operate from Marina Centre Bus Terminal to Commonwealth MRT station.,195,,195,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=195
+SBS,Bus 195A operate from Marina Centre Bus Terminal to Tiong Bahru MRT station.,195A,,195A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=195A
+SBS,Bus 196 operate from Bedok Bus Interchange to Clementi Bus Interchange.,196,,196,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=196
+SBS,Bus 196e operate from Marine Parade Road to Shenton Way.,196e,,196e,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=196e
+SBS,Bus 197 operate from Bedok Bus Interchange to Jurong East Bus Interchange.,197,,197,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=197
+SBS,Bus 198 operate from Boon Lay Bus Interchange to Bukit Merah Bus Interchange.,198,,198,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=198
+SBS,Bus 198A operate from Boon Lay Bus Interchange to Jurong East Avenue 1.,198A,,198A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=198A
+SBS,Bus 199 operate from Boon Lay Bus Interchange to Nanyang Crescent.,199,,199,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=199
+SBS,Bus 1N operate from Marina Centre Bus Terminal to Ang Mo Kio / Yishun.,1N,,1N,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=1N
+GAS,Bus 2 operate from Changi Village Bus Terminal to Kampong Bahru Bus Terminal.,2,,2,3,https://go-aheadsingapore.com/bus-services/service-2/
+SBS,Bus 20 operate from Tampines Bus Interchange to Changi Business Park Avenue 3.,20,,20,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=20
+SBS,Bus 200 operate from Buona Vista Bus Terminal to Kent Ridge Bus Terminal.,200,,200,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=200
+SBS,Bus 201 operate from Kent Ridge Bus Terminal to Pandan Gardens.,201,,201,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=201
+SBS,Bus 21 operate from Pasir Ris Bus Interchange to Saint Michael’s Bus Terminal.,21,,21,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=21
+SBS,Bus 21A operate from Geylang Road to Kitchener Road.,21A,,21A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=21A
+SBS,Bus 22 operate from Ang Mo Kio Bus Interchange to Tampines Bus Interchange.,22,,22,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=22
+SBS,Bus 222 operate from Bedok Bus Interchange to Chai Chee Street.,222,,222,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=222
+SBS,Bus 222A operate from Bedok Bus Interchange to Bedok MRT station.,222A,,222A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=222A
+SBS,Bus 222B operate from New Upper Changi Road to Chai Chee Drive.,222B,,222B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=222B
+SBS,,225G,,225G,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=225G
+SBS,,225W,,225W,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=225W
+SBS,Bus 228 operate from Bedok Bus Interchange to Bedok Reservoir Road.,228,,228,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=228
+SBS,Bus 229 operate from Bedok Bus Interchange to Bedok South Road.,229,,229,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=229
+SBS,Bus 23 operate from Tampines Bus Interchange to Rochor Canal Road.,23,,23,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=23
+SBS,Bus 231 operate from Toa Payoh Bus Interchange to Toa Payoh Lorong 5.,231,,231,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=231
+SBS,Bus 232 operate from Toa Payoh Bus Interchange to Toa Payoh East.,232,,232,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=232
+SBS,Bus 235 operate from Toa Payoh Bus Interchange to Caldecott MRT station.,235,,235,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=235
+SBS,Bus 238 operate from Toa Payoh Bus Interchange to Toa Payoh Lorong 8.,238,,238,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=238
+SBS,Bus 24 operate from Ang Mo Kio Bus Interchange to Changi Airport.,24,,24,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=24
+SBS,Bus 240 operate from Boon Lay Bus Interchange to Jalan Ahmad Ibrahim.,240,,240,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=240
+SBS,Bus 240A operate from Corporation Drive to Boon Lay Way (Lakeside MRT station).,240A,,240A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=240A
+SBS,Bus 240M operate from Lakeside MRT station to Boon Lay MRT station.,240M,,240M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=240M
+SBS,Bus 241 operate from Boon Lay Bus Interchange to Jurong West Street 91.,241,,241,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=241
+SBS,Bus 241A operate from Jurong West Street 91 to Jurong West Street 63 (Pioneer MRT station).,241A,,241A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=241A
+SBS,Bus 242 operate from Boon Lay Bus Interchange to Jurong West Street 71.,242,,242,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=242
+SBS,,243G,,243G,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=243G
+SBS,,243W,,243W,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=243W
+SBS,Bus 246 operate from Boon Lay Bus Interchange to Boon Lay Drive.,246,,246,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=246
+SBS,Bus 247 operate from Tuas Bus Terminal to Tuas Bay Link.,247,,247,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=247
+SBS,Bus 248 operate from Tuas Bus Terminal to Tuas South Avenue 14.,248,,248,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=248
+SBS,Bus 248M operate from Tuas Bus Terminal to Tuas South Way.,248M,,248M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=248M
+SBS,Bus 249 operate from Boon Lay Bus Interchange to Jalan Samulun.,249,,249,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=249
+SBS,Bus 25 operate from Ang Mo Kio Bus Interchange to Upper East Coast Bus Terminal.,25,,25,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=25
+SBS,Bus 251 operate from Boon Lay Bus Interchange to Shipyard Road.,251,,251,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=251
+SBS,Bus 252 operate from Boon Lay Bus Interchange to Joo Koon Road.,252,,252,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=252
+SBS,Bus 253 operate from Joo Koon Bus Interchange to Benoi Road.,253,,253,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=253
+SBS,Bus 254 operate from Joo Koon Bus Interchange to Tuas Avenue 11.,254,,254,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=254
+SBS,Bus 255 operate from Joo Koon Bus Interchange to Gul Crescent.,255,,255,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=255
+SBS,Bus 257 operate from Joo Koon Bus Interchange to Pioneer Sector 2.,257,,257,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=257
+SBS,Bus 258 operate from Joo Koon Bus Interchange to Boon Lay MRT station.,258,,258,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=258
+SBS,Bus 26 operate from Bedok Bus Interchange to Toa Payoh Bus Interchange.,26,,26,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=26
+SBS,Bus 261 operate from Ang Mo Kio Bus Interchange to Ang Mo Kio Avenue 10.,261,,261,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=261
+SBS,Bus 262 operate from Ang Mo Kio Bus Interchange to Ang Mo Kio Avenue 2.,262,,262,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=262
+SBS,Bus 265 operate from Ang Mo Kio Bus Depot to Ang Mo Kio Avenue 10.,265,,265,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=265
+SBS,Bus 268 operate from Ang Mo Kio Bus Depot to Ang Mo Kio Industrial Park 2.,268,,268,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=268
+SBS,Bus 268A operate from Ang Mo Kio Bus Depot to Ang Mo Kio Avenue 5.,268A,,268A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=268A
+SBS,Bus 268B operate from Ang Mo Kio Avenue 9 to Ang Mo Kio MRT station.,268B,,268B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=268B
+SBS,Bus 268C operate from Ang Mo Kio MRT station to Ang Mo Kio Avenue 9.,268C,,268C,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=268C
+SBS,Bus 269 operate from Ang Mo Kio Bus Interchange to Ang Mo Kio Street 61.,269,,269,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=269
+SBS,Bus 269A operate from Ang Mo Kio Bus Interchange to Ang Mo Kio Street 61.,269A,,269A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=269A
+SBS,Bus 27 operate from Hougang Central Bus Interchange to Changi Airport.,27,,27,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=27
+SBS,Bus 272 operate from Bukit Merah Bus Interchange to Telok Blangah Rise.,272,,272,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=272
+SBS,Bus 273 operate from Bukit Merah Bus Interchange to Henderson Road.,273,,273,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=273
+SBS,Bus 27A operate from Sengkang East Avenue to Tampines Avenue 4.,27A,,27A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=27A
+SBS,Bus 28 operate from Tampines Bus Interchange to Toa Payoh Bus Interchange.,28,,28,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=28
+TTS,Bus 282 operate from Clementi Bus Interchange to Clementi West Street 2.,282,,282,3,https://towertransit.sg/our-routes/
+TTS,Bus 284 operate from Clementi Bus Interchange to Clementi Avenue 4.,284,,284,3,https://towertransit.sg/our-routes/
+TTS,Bus 285 operate from Clementi Bus Interchange to Pandan Loop.,285,,285,3,https://towertransit.sg/our-routes/
+SBS,Bus 29 operate from Tampines Bus Interchange to Changi Village Bus Terminal.,29,,29,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=29
+SBS,Bus 291 operate from Tampines Bus Interchange to Tampines Street 81/33.,291,,291,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=291
+SBS,Bus 291T operate from Tampines Bus Interchange to Tampines Street 81/33.,291T,,291T,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=291T
+SBS,Bus 292 operate from Tampines Bus Interchange to Tampines Street 22.,292,,292,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=292
+SBS,Bus 293 operate from Tampines Bus Interchange to Tampines Street 71/45.,293,,293,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=293
+SBS,Bus 293T operate from Tampines Bus Interchange to Tampines Street 71/45.,293T,,293T,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=293T
+SBS,Bus 298 operate from Tampines Concourse Bus Interchange to Tampines Street 86.,298,,298,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=298
+SBS,Bus 29A operate from Tampines Bus Interchange to Tampines Avenue 7.,29A,,29A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=29A
+GAS,Bus 2A operate from Kampong Bahru Bus Terminal to Tanah Merah MRT station.,2A,,2A,3,https://go-aheadsingapore.com/bus-services/service-2A/
+SBS,Bus 2N operate from Marina Centre Bus Terminal to Bedok Reservoir / Tampines.,2N,,2N,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=2N
+GAS,Bus 3 operate from Tampines Bus Interchange to Punggol Bus Interchange.,3,,3,3,https://go-aheadsingapore.com/bus-services/service-3/
+SBS,Bus 30 operate from Bedok Bus Interchange to Boon Lay Bus Interchange.,30,,30,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=30
+SMRT,Bus 300 operate from Choa Chu Kang Bus Interchange to Choa Chu Kang Avenue 3.,300,,300,3,http://journey.smrt.com.sg/journey/bus_search/bus/300/
+SMRT,Bus 301 operate from Choa Chu Kang Bus Interchange to Keat Hong Close.,301,,301,3,http://journey.smrt.com.sg/journey/bus_search/bus/301/
+SMRT,Bus 302 operate from Choa Chu Kang Bus Interchange to Choa Chu Kang Crescent.,302,,302,3,http://journey.smrt.com.sg/journey/bus_search/bus/302/
+SMRT,Bus 302A operate from Yew Tee MRT station to Choa Chu Kang Drive (Opposite Yew Tee MRT station).,302A,,302A,3,http://journey.smrt.com.sg/journey/bus_search/bus/302A/
+SMRT,Bus 307 operate from Choa Chu Kang Bus Interchange to Choa Chu Kang Street 62.,307,,307,3,http://journey.smrt.com.sg/journey/bus_search/bus/307/
+SMRT,Bus 307A operate from Choa Chu Kang Bus Interchange to Choa Chu Kang Street 62.,307A,,307A,3,http://journey.smrt.com.sg/journey/bus_search/bus/307A/
+SMRT,Bus 307T operate from Choa Chu Kang MRT/LRT station to Teck Whye Lane.,307T,,307T,3,http://journey.smrt.com.sg/journey/bus_search/bus/307T/
+SBS,Bus 30e operate from Bedok Bus Interchange to Pasir Panjang Road.,30e,,30e,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=30e
+SBS,Bus 31 operate from Tampines Bus Interchange to Toa Payoh Bus Interchange.,31,,31,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=31
+SBS,Bus 315 operate from Serangoon Bus Interchange to Serangoon North Avenue 5.,315,,315,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=315
+SBS,Bus 317 operate from Serangoon Bus Interchange to Berwick Drive.,317,,317,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=317
+SBS,Bus 31A operate from Tampines Bus Interchange to Tanah Merah MRT station.,31A,,31A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=31A
+SBS,Bus 32 operate from Bedok Bus Interchange to Buona Vista Bus Terminal.,32,,32,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=32
+SBS,Bus 324 operate from Hougang Central Bus Interchange to Upper Serangoon Crescent.,324,,324,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=324
+SBS,Bus 325 operate from Hougang Central Bus Interchange to Hougang Street 91.,325,,325,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=325
+SBS,Bus 329 operate from Hougang Central Bus Interchange to Buangkok Crescent.,329,,329,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=329
+SBS,Bus 33 operate from Kent Ridge Bus Terminal to Bedok Bus Interchange.,33,,33,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=33
+TTS,Bus 333 operate from Jurong East Bus Interchange to Jurong East Street 32.,333,,333,3,https://towertransit.sg/our-routes/
+TTS,Bus 334 operate from Jurong East Bus Interchange to Jurong West Street 42.,334,,334,3,https://towertransit.sg/our-routes/
+TTS,Bus 335 operate from Jurong East Bus Interchange to Jurong West Avenue 1.,335,,335,3,https://towertransit.sg/our-routes/
+SBS,Bus 33A operate from Kent Ridge Bus Terminal to Tiong Bahru Road.,33A,,33A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=33A
+SBS,Bus 33B operate from Bedok Bus Interchange to Joo Chiat Place.,33B,,33B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=33B
+GAS,Bus 34 operate from Punggol Bus Interchange to Changi Airport.,34,,34,3,https://go-aheadsingapore.com/bus-services/service-34/
+GAS,Bus 34A operate from Punggol Bus Interchange to Tampines Avenue 5.,34A,,34A,3,https://go-aheadsingapore.com/bus-services/service-34A/
+SBS,Bus 35 operate from Bedok Bus Interchange to Airport Logistics Park of Singapore (ALPS).,35,,35,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=35
+GAS,Bus 354 operate from Pasir Ris Bus Interchange to Jalan Loyang Besar.,354,,354,3,https://go-aheadsingapore.com/bus-services/service-354/
+GAS,Bus 358 operate from Pasir Ris Bus Interchange to Pasir Ris Drive 10 / Pasir Ris Street 41.,358,,358,3,https://go-aheadsingapore.com/bus-services/service-358/
+GAS,Bus 359 operate from Pasir Ris Bus Interchange to Pasir Ris Street 71 / Pasir Ris Drive 2.,359,,359,3,https://go-aheadsingapore.com/bus-services/service-359/
+SBS,Bus 35M operate from Bedok Bus Interchange to Tanah Merah Ferry Terminal.,35M,,35M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=35M
+GAS,Bus 36 operate from Changi Airport to Tomlinson Road.,36,,36,3,https://go-aheadsingapore.com/bus-services/service-36/
+GAS,Bus 36B operate from Marine Parade Road to Siglap Road.,36B,,36B,3,https://go-aheadsingapore.com/bus-services/service-36B/
+SBS,Bus 37 operate from Tampines Bus Interchange to Changi North Crescent.,37,,37,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=37
+SBS,Bus 371 operate from Sengkang Bus Interchange to Rivervale Crescent.,371,,371,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=371
+SBS,Bus 372 operate from Sengkang Bus Interchange to Anchorvale Road.,372,,372,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=372
+SBS,Bus 374 operate from Compassvale Bus Interchange to Fernvale Road.,374,,374,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=374
+SBS,Bus 38 operate from Tampines Bus Interchange to Bedok Bus Interchange.,38,,38,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=38
+GAS,Bus 381 operate from Punggol Bus Interchange to Punggol East.,381,,381,3,https://go-aheadsingapore.com/bus-services/service-381/
+GAS,,382,,382,3,https://go-aheadsingapore.com/bus-services/service-382/
+GAS,Bus 382A operate from Punggol Bus Interchange to Sumang Lane.,382A,,382A,3,https://go-aheadsingapore.com/bus-services/service-382A/
+GAS,Bus 382G operate from Punggol Bus Interchange to Sumang Walk.,382G,,382G,3,https://go-aheadsingapore.com/bus-services/service-382G/
+GAS,Bus 382W operate from Punggol Bus Interchange to Sumang Walk.,382W,,382W,3,https://go-aheadsingapore.com/bus-services/service-382W/
+GAS,Bus 384 operate from Punggol Bus Interchange to Northshore Drive.,384,,384,3,https://go-aheadsingapore.com/bus-services/service-384/
+GAS,Bus 386 operate from Punggol Bus Interchange to Punggol East.,386,,386,3,https://go-aheadsingapore.com/bus-services/service-386/
+GAS,Bus 386A operate from Punggol Bus Interchange to Edgedale Plains.,386A,,386A,3,https://go-aheadsingapore.com/bus-services/service-386A/
+SBS,Bus 39 operate from Tampines Concourse Bus Interchange to Yishun Bus Interchange.,39,,39,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=39
+GAS,Bus 3A operate from Tampines Bus Interchange to Pasir Ris Drive 12.,3A,,3A,3,https://go-aheadsingapore.com/bus-services/service-3A/
+SBS,Bus 3N operate from Marina Centre Bus Terminal to Bukit Batok / Choa Chu Kang.,3N,,3N,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=3N
+SBS,Bus 4 operate from Tampines Bus Interchange to Changi North Way.,4,,4,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=4
+SBS,Bus 40 operate from Bedok Bus Interchange to Merparti Road.,40,,40,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=40
+SBS,Bus 400 operate from Shenton Way Bus Terminal to Marina South Pier.,400,,400,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=400
+SBS,Bus 401 operate from Bedok Bus Interchange to Fort Road.,401,,401,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=401
+GAS,Bus 403 operate from Pasir Ris Bus Interchange to Pasir Ris Road.,403,,403,3,https://go-aheadsingapore.com/bus-services/service-403/
+SBS,Bus 405 operate from Boon Lay Bus Interchange to Old Choa Chu Kang Road End.,405,,405,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=405
+TTS,Bus 41 operate from Jurong East Bus Interchange to Jalan Anak Bukit.,41,,41,3,https://towertransit.sg/our-routes/
+SBS,Bus 410 operate from Bishan Bus Interchange to Shunfu Road.,410,,410,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=410
+SBS,,410G,,410G,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=410G
+SBS,,410W,,410W,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=410W
+SBS,Bus 42 operate from Kembangan MRT station to Opera Estate.,42,,42,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=42
+GAS,Bus 43 operate from Punggol Bus Interchange to Upper East Coast Bus Terminal.,43,,43,3,https://go-aheadsingapore.com/bus-services/service-43/
+GAS,Bus 43e operate from Punggol Bus Interchange to Marine Parade Road.,43e,,43e,3,https://go-aheadsingapore.com/bus-services/service-43e/
+GAS,Bus 43M operate from Punggol Bus Interchange to Serangoon Central (Serangoon MRT station).,43M,,43M,3,https://go-aheadsingapore.com/bus-services/service-43M/
+SBS,Bus 45 operate from Upper East Coast Bus Terminal to Ang Mo Kio Bus Depot.,45,,45,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=45
+SBS,Bus 45A operate from Lorong Ah Soo to Serangoon MRT station.,45A,,45A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=45A
+SBS,Bus 46 operate from Upper East Coast Bus Terminal to Tampines Bus Interchange.,46,,46,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=46
+SBS,Bus 47 operate from Changi Business Park Bus Terminal to Amber Road.,47,,47,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=47
+SBS,Bus 48 operate from Bedok North Bus Depot to Buona Vista Bus Terminal.,48,,48,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=48
+TTS,Bus 49 operate from Jurong East Bus Interchange to Jurong West Street 42.,49,,49,3,https://towertransit.sg/our-routes/
+SBS,Bus 4N operate from Marina Centre Bus Terminal to Marine Parade / Bedok / Simei / Pasir Ris.,4N,,4N,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=4N
+SBS,Bus 5 operate from Pasir Ris Bus Interchange to Bukit Merah Bus Interchange.,5,,5,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=5
+SBS,Bus 50 operate from Bishan Bus Interchange to Punggol Bus Interchange.,50,,50,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=50
+SBS,Bus 502 operate from Soon Lee Bus Park to Bayfront Avenue (Bayfront MRT station/Marina Bay Sands).,502,,502,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=502
+SBS,Bus 502A operate from Soon Lee Bus Park to Downtown MRT station.,502A,,502A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=502A
+SBS,Bus 506 operate from Jurong East Bus Interchange to Upper East Coast Bus Terminal.,506,,506,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=506
+SBS,Bus 51 operate from Hougang Central Bus Interchange to Jurong East Bus Interchange.,51,,51,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=51
+SBS,Bus 513 operate from Tampines Avenue 5 to Shenton Way.,513,,513,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=513
+GAS,Bus 518 operate from Pasir Ris Bus Interchange to Bayfront Avenue (Bayfront MRT station/Marina Bay Sands).,518,,518,3,https://go-aheadsingapore.com/bus-services/service-518/
+GAS,,518A,,518A,3,https://go-aheadsingapore.com/bus-services/service-518A/
+SBS,Bus 51A operate from Jurong East Bus Interchange to Pandan Gardens.,51A,,51A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=51A
+SBS,Bus 52 operate from Bishan Bus Interchange to Jurong East Bus Interchange.,52,,52,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=52
+SBS,Bus 53 operate from Bishan Bus Interchange to Changi Airport.,53,,53,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=53
+SBS,Bus 53M operate from Hougang Avenue 1 to Serangoon Central.,53M,,53M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=53M
+SBS,Bus 54 operate from Bishan Bus Interchange to Kampong Bahru Bus Terminal.,54,,54,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=54
+SBS,Bus 55 operate from Bishan Bus Interchange to Upper East Coast Bus Terminal.,55,,55,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=55
+SBS,Bus 55B operate from Bishan Bus Interchange to Ang Mo Kio Avenue 10.,55B,,55B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=55B
+SBS,Bus 56 operate from Bishan Bus Interchange to Marina Centre Bus Terminal.,56,,56,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=56
+SBS,Bus 57 operate from Bishan Bus Interchange to Bukit Merah Bus Interchange.,57,,57,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=57
+SBS,Bus 58 operate from Bishan Bus Interchange to Pasir Ris Bus Interchange.,58,,58,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=58
+SBS,Bus 59 operate from Bishan Bus Interchange to Changi Village Bus Terminal.,59,,59,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=59
+SBS,Bus 5N operate from Marina Centre Bus Terminal to Clementi / Jurong East / Jurong West.,5N,,5N,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=5N
+GAS,Bus 6 operate from Pasir Ris Bus Interchange to Loyang Crescent.,6,,6,3,https://go-aheadsingapore.com/bus-services/service-6/
+SBS,Bus 60 operate from Eunos Bus Interchange to Bedok Bus Interchange.,60,,60,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=60
+SBS,Bus 60A operate from Eunos Bus Interchange to Bedok Reservoir Road.,60A,,60A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=60A
+SBS,,60T,,60T,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=60T
+SMRT,Bus 61 operate from Bukit Batok Bus Interchange to Eunos Bus Interchange.,61,,61,3,http://journey.smrt.com.sg/journey/bus_search/bus/61/
+GAS,Bus 62 operate from Punggol Bus Interchange to Sims Avenue.,62,,62,3,https://go-aheadsingapore.com/bus-services/service-62/
+GAS,Bus 62A operate from Punggol Bus Interchange to Aljunied MRT station.,62A,,62A,3,https://go-aheadsingapore.com/bus-services/service-62A/
+SBS,Bus 63 operate from Eunos Bus Interchange to Jalan Rumah Tinggi.,63,,63,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=63
+SBS,Bus 63A operate from Eunos Bus Interchange to Jalan Rumah Tinggi.,63A,,63A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=63A
+SBS,Bus 63M operate from Eunos Bus Interchange to Circuit Road.,63M,,63M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=63M
+SBS,Bus 64 operate from Sims Place Bus Terminal to Mei Ling Street.,64,,64,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=64
+SBS,Bus 65 operate from Tampines Bus Interchange to HarbourFront Bus Interchange.,65,,65,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=65
+TTS,Bus 651 operate from Jurong West Avenue 3 to Central Boulevard.,651,,651,3,https://towertransit.sg/our-routes/
+SBS,Bus 652 operate from Upper Thomson Road to Anson Road.,652,,652,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=652
+TTS,Bus 653 operate from Hume Avenue to Central Boulevard.,653,,653,3,https://towertransit.sg/our-routes/
+SBS,Bus 654 operate from Anchorvale Street to Anson Road.,654,,654,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=654
+SBS,Bus 655 operate from West Coast Road to Central Boulevard.,655,,655,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=655
+TTS,Bus 656 operate from Canberra Road to Anson Road.,656,,656,3,https://towertransit.sg/our-routes/
+TTS,Bus 657 operate from Jurong West Avenue 1 to Central Boulevard.,657,,657,3,https://towertransit.sg/our-routes/
+TTS,Bus 66 operate from Bedok Bus Interchange to Jurong East Bus Interchange.,66,,66,3,https://towertransit.sg/our-routes/
+SBS,Bus 660 operate from Buangkok Green to Anson Road.,660,,660,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=660
+GAS,Bus 661 operate from Pasir Ris Drive 3 to Central Boulevard.,661,,661,3,https://go-aheadsingapore.com/bus-services/service-661/
+TTS,Bus 663 operate from Yishun Avenue 6 to Anson Road.,663,,663,3,https://towertransit.sg/our-routes/
+SMRT,Bus 665 operate from Marsiling Drive to Anson Road.,665,,665,3,http://journey.smrt.com.sg/journey/bus_search/bus/665/
+SBS,Bus 667 operate from Clementi Avenue 4 to Central Boulevard.,667,,667,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=667
+SBS,Bus 668 operate from Ang Mo Kio Avenue 5 to Central Boulevard.,668,,668,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=668
+TTS,Bus 66C operate from Jurong East Bus Interchange to Jalan Jurong Kechil (Opp Beauty World MRT station).,66C,,66C,3,https://towertransit.sg/our-routes/
+SMRT,Bus 67 operate from Choa Chu Kang Bus Interchange to Tampines Bus Interchange.,67,,67,3,http://journey.smrt.com.sg/journey/bus_search/bus/67/
+TTS,Bus 670 operate from Yishun Avenue 7 to Central Boulevard.,670,,670,3,https://towertransit.sg/our-routes/
+SBS,Bus 671 operate from Punggol Road to Central Boulevard.,671,,671,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=671
+SBS,Bus 672 operate from Hougang Street 51 to Central Boulevard.,672,,672,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=672
+GAS,Bus 68 operate from Pasir Ris Bus Interchange to Tampines Bus Interchange.,68,,68,3,https://go-aheadsingapore.com/bus-services/service-68/
+GAS,Bus 68A operate from Tampines Avenue 11 to Tampines Bus Interchange.,68A,,68A,3,https://go-aheadsingapore.com/bus-services/service-68A/
+GAS,Bus 68B operate from Tampines Bus Interchange to Tampines Avenue 11.,68B,,68B,3,https://go-aheadsingapore.com/bus-services/service-68B/
+SBS,Bus 69 operate from Tampines Bus Interchange to Bedok Bus Interchange.,69,,69,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=69
+SBS,Bus 6N operate from Marina Centre Bus Terminal to Hougang / Sengkang / Punggol.,6N,,6N,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=6N
+SBS,Bus 7 operate from Bedok Bus Interchange to Clementi Bus Interchange.,7,,7,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=7
+SBS,Bus 70 operate from Yio Chu Kang Bus Interchange to Shenton Way Bus Terminal.,70,,70,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=70
+SBS,Bus 70A operate from Yio Chu Kang Bus Interchange to Temasek Avenue.,70A,,70A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=70A
+SBS,Bus 70B operate from Yio Chu Kang Road to Serangoon MRT station.,70B,,70B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=70B
+SBS,Bus 70M operate from Yio Chu Kang Bus Interchange to Temasek Avenue.,70M,,70M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=70M
+SBS,Bus 71 operate from Yio Chu Kang Bus Interchange to Bishan Street 11.,71,,71,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=71
+SBS,Bus 72 operate from Yio Chu Kang Bus Interchange to Tampines Bus Interchange.,72,,72,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=72
+SBS,Bus 72A operate from Yio Chu Kang Bus Interchange to Hougang Central (Hougang MRT station).,72A,,72A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=72A
+SBS,Bus 72B operate from Yio Chu Kang Bus Interchange to Ang Mo Kio Avenue 5.,72B,,72B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=72B
+SBS,Bus 73 operate from Ang Mo Kio Bus Interchange to Toa Payoh Bus Interchange.,73,,73,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=73
+SBS,,73T,,73T,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=73T
+SBS,Bus 74 operate from Hougang Central Bus Interchange to Buona Vista Bus Terminal.,74,,74,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=74
+SBS,Bus 74e operate from Hougang Central Bus Interchange to Buona Vista Bus Terminal.,74e,,74e,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=74e
+SMRT,Bus 75 operate from Gali Batu Bus Terminal to Marina Centre Bus Terminal.,75,,75,3,http://journey.smrt.com.sg/journey/bus_search/bus/75/
+SBS,Bus 76 operate from Yio Chu Kang Bus Interchange to Eunos Bus Interchange.,76,,76,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=76
+TTS,Bus 77 operate from Bukit Batok Bus Interchange to Marina Centre Bus Terminal.,77,,77,3,https://towertransit.sg/our-routes/
+TTS,Bus 78 operate from Jurong Gateway Road to Clementi MRT station.,78,,78,3,https://towertransit.sg/our-routes/
+TTS,Bus 78A operate from Jurong Gateway Road to Tanjong Penjuru.,78A,,78A,3,https://towertransit.sg/our-routes/
+TTS,Bus 79 operate from Boon Lay Bus Interchange to Jurong Gateway Road.,79,,79,3,https://towertransit.sg/our-routes/
+TTS,Bus 79A operate from Boon Lay Bus Interchange to Jurong Town Hall Road.,79A,,79A,3,https://towertransit.sg/our-routes/
+SBS,Bus 7A operate from Bedok Bus Interchange to Orchard Boulevard.,7A,,7A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=7A
+SBS,Bus 7B operate from Clementi Bus Interchange to Dhoby Ghaut MRT station.,7B,,7B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=7B
+SBS,Bus 8 operate from Tampines Bus Interchange to Toa Payoh Bus Interchange.,8,,8,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=8
+SBS,Bus 80 operate from Sengkang Bus Interchange to HarbourFront Bus Interchange.,80,,80,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=80
+SBS,Bus 800 operate from Yishun Bus Interchange to Sembawang Road.,800,,800,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=800
+SBS,Bus 803 operate from Yishun Bus Interchange to Yishun Avenue 6.,803,,803,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=803
+SBS,Bus 804 operate from Yishun Bus Interchange to Yishun Avenue 11.,804,,804,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=804
+SBS,Bus 805 operate from Yishun Bus Interchange to Yishun Avenue 1.,805,,805,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=805
+SBS,Bus 806 operate from Yishun Bus Interchange to Yishun Avenue 6.,806,,806,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=806
+SBS,Bus 807 operate from Yishun Bus Interchange to Yishun Avenue 5.,807,,807,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=807
+SBS,Bus 807A operate from Yishun Bus Interchange to Yishun Ring Road (Khatib MRT station).,807A,,807A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=807A
+SBS,Bus 807B operate from Yishun Bus Interchange to Yishun Ring Road (Jiemin Pri Sch).,807B,,807B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=807B
+SBS,Bus 80A operate from Sengkang Bus Interchange to Aljunied MRT station.,80A,,80A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=80A
+SBS,Bus 81 operate from Tampines Bus Interchange to Serangoon Central.,81,,81,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=81
+SBS,Bus 811 operate from Yishun Bus Interchange to Yishun Avenue 5/1.,811,,811,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=811
+SBS,Bus 811A operate from Yishun Bus Interchange to Yishun Avenue 5.,811A,,811A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=811A
+SBS,Bus 811T operate from Yishun Bus Interchange to Yishun Avenue 5/1.,811T,,811T,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=811T
+SBS,Bus 812 operate from Yishun Bus Interchange to Yishun Avenue 4/3.,812,,812,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=812
+SBS,Bus 812T operate from Yishun Bus Interchange to Yishun Avenue 4/3.,812T,,812T,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=812T
+GAS,Bus 82 operate from Punggol Bus Interchange to Serangoon Central.,82,,82,3,https://go-aheadsingapore.com/bus-services/service-82/
+TTS,Bus 825 operate from Yio Chu Kang Bus Interchange to Lentor Loop.,825,,825,3,https://towertransit.sg/our-routes/
+GAS,Bus 83 operate from Punggol Bus Interchange to Sengkang Bus Interchange.,83,,83,3,https://go-aheadsingapore.com/bus-services/service-83/
+GAS,,83T,,83T,3,https://go-aheadsingapore.com/bus-services/service-83T/
+GAS,Bus 84 operate from Punggol Bus Interchange to Punggol Road End.,84,,84,3,https://go-aheadsingapore.com/bus-services/service-84/
+GAS,Bus 85 operate from Punggol Bus Interchange to Yishun Bus Interchange.,85,,85,3,https://go-aheadsingapore.com/bus-services/service-85/
+SBS,Bus 850E operate from Yishun Street 41 to Shenton Way.,850E,,850E,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=850E
+SBS,Bus 851 operate from Yishun Bus Interchange to Bukit Merah Bus Interchange.,851,,851,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=851
+SBS,Bus 851e operate from Yishun Bus Interchange to New Bridge Road.,851e,,851e,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=851e
+SBS,Bus 852 operate from Yishun Bus Interchange to Bukit Batok Bus Interchange.,852,,852,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=852
+TTS,Bus 853 operate from Yishun Bus Interchange to Lorong 1 Geylang Bus Terminal.,853,,853,3,https://towertransit.sg/our-routes/
+TTS,Bus 853M operate from Yishun Bus Interchange to Upper East Coast Bus Terminal.,853M,,853M,3,https://towertransit.sg/our-routes/
+TTS,Bus 854 operate from Yishun Bus Interchange to Bedok Bus Interchange.,854,,854,3,https://towertransit.sg/our-routes/
+TTS,Bus 854e operate from Yishun Bus Interchange to Bedok Bus Interchange.,854e,,854e,3,https://towertransit.sg/our-routes/
+TTS,Bus 855 operate from Yishun Bus Interchange to HarbourFront Bus Interchange.,855,,855,3,https://towertransit.sg/our-routes/
+TTS,Bus 856 operate from Yishun Bus Interchange to Woodlands Bus Interchange.,856,,856,3,https://towertransit.sg/our-routes/
+TTS,Bus 857 operate from Yishun Bus Interchange to Suntec City.,857,,857,3,https://towertransit.sg/our-routes/
+TTS,Bus 857A operate from Yishun Bus Interchange to Yio Chu Kang Road.,857A,,857A,3,https://towertransit.sg/our-routes/
+TTS,Bus 857B operate from Yishun Bus Interchange to Suntec City.,857B,,857B,3,https://towertransit.sg/our-routes/
+TTS,Bus 858 operate from Woodlands Bus Interchange to Changi Airport.,858,,858,3,https://towertransit.sg/our-routes/
+TTS,Bus 858A operate from Woodlands Bus Interchange to Yishun MRT station.,858A,,858A,3,https://towertransit.sg/our-routes/
+TTS,Bus 858B operate from Jalan Kayu to Changi Airport.,858B,,858B,3,https://towertransit.sg/our-routes/
+TTS,Bus 859 operate from Sembawang Bus Interchange to Yishun Bus Interchange.,859,,859,3,https://towertransit.sg/our-routes/
+TTS,Bus 859A operate from Sembawang Bus Interchange to Admiralty Link / Sembawang Crescent.,859A,,859A,3,https://towertransit.sg/our-routes/
+TTS,Bus 859B operate from Sembawang Bus Interchange to Sembawang Crescent / Admiralty Link.,859B,,859B,3,https://towertransit.sg/our-routes/
+TTS,,859T,,859T,3,https://towertransit.sg/our-routes/
+GAS,Bus 85A operate from Yishun Bus Interchange to Sengkang East Road.,85A,,85A,3,https://go-aheadsingapore.com/bus-services/service-85A/
+SBS,Bus 86 operate from Ang Mo Kio Bus Interchange to Sengkang Bus Interchange.,86,,86,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=86
+SBS,Bus 860 operate from Yishun Bus Interchange to Yio Chu Kang Bus Interchange.,860,,860,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=860
+SBS,,860T,,860T,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=860T
+SMRT,Bus 868E operate from Bukit Batok West Avenue 5 to Temasek Avenue.,868E,,868E,3,http://journey.smrt.com.sg/journey/bus_search/bus/868E/
+SBS,Bus 87 operate from Sengkang Bus Interchange to Bedok Bus Interchange.,87,,87,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=87
+SBS,Bus 88 operate from Pasir Ris Bus Interchange to Toa Payoh Bus Interchange.,88,,88,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=88
+TTS,Bus 882 operate from Sembawang Bus Interchange to Sembawang Road End.,882,,882,3,https://towertransit.sg/our-routes/
+TTS,Bus 882A operate from Sembawang Bus Interchange to Montreal Link.,882A,,882A,3,https://towertransit.sg/our-routes/
+TTS,Bus 883 operate from Sembawang Bus Interchange to Yishun Central 2.,883,,883,3,https://towertransit.sg/our-routes/
+TTS,Bus 883B operate from Yishun MRT station to Sembawang Road (Opp Blk 590C).,883B,,883B,3,https://towertransit.sg/our-routes/
+TTS,Bus 883M operate from Sembawang Bus Interchange to Sembawang Road.,883M,,883M,3,https://towertransit.sg/our-routes/
+SBS,Bus 88A operate from Punggol Road to Ang Mo Kio Avenue 3 (Ang Mo Kio MRT station).,88A,,88A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=88A
+SBS,Bus 88B operate from Ang Mo Kio MRT station to Ang Mo Kio Avenue 5.,88B,,88B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=88B
+SBS,Bus 89 operate from Hougang Central Bus Interchange to Changi Airfreight Centre.,89,,89,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=89
+SBS,Bus 89A operate from Tampines Expressway to Changi Airfreight Centre.,89A,,89A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=89A
+SBS,Bus 89e operate from Hougang Central Bus Interchange to Changi Airfreight Centre.,89e,,89e,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=89e
+SBS,Bus 9 operate from Bedok Bus Interchange to Changi Airfreight Centre.,9,,9,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=9
+SBS,Bus 90 operate from Toa Payoh Bus Interchange to Airport Road.,90,,90,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=90
+SMRT,Bus 900 operate from Woodlands Bus Interchange to Woodlands Drive 14.,900,,900,3,http://journey.smrt.com.sg/journey/bus_search/bus/900/
+SMRT,Bus 900A operate from Woodlands Bus Interchange to Woodlands Drive 17.,900A,,900A,3,http://journey.smrt.com.sg/journey/bus_search/bus/900A/
+SMRT,Bus 901 operate from Woodlands Bus Interchange to Woodlands Avenue 6.,901,,901,3,http://journey.smrt.com.sg/journey/bus_search/bus/901/
+SMRT,Bus 901M operate from Woodlands Bus Interchange to Woodlands Avenue 7.,901M,,901M,3,http://journey.smrt.com.sg/journey/bus_search/bus/901M/
+SMRT,Bus 902 operate from Woodlands Bus Interchange to Republic Polytechnic.,902,,902,3,http://journey.smrt.com.sg/journey/bus_search/bus/902/
+SMRT,Bus 903 operate from Woodlands Bus Interchange to Woodlands Centre Road.,903,,903,3,http://journey.smrt.com.sg/journey/bus_search/bus/903/
+SMRT,Bus 903M operate from Woodlands Bus Interchange to Marsiling Lane.,903M,,903M,3,http://journey.smrt.com.sg/journey/bus_search/bus/903M/
+SMRT,Bus 904 operate from Woodlands Bus Interchange to Woodlands Crescent.,904,,904,3,http://journey.smrt.com.sg/journey/bus_search/bus/904/
+SBS,Bus 90A operate from Toa Payoh Bus Interchange to Airport Road.,90A,,90A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=90A
+SBS,Bus 91 operate from Buona Vista Bus Terminal to Ayer Rajah Crescent.,91,,91,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=91
+SMRT,Bus 911 operate from Woodlands Bus Interchange to Woodlands Avenue 2 / Woodlands Centre Road.,911,,911,3,http://journey.smrt.com.sg/journey/bus_search/bus/911/
+SMRT,Bus 911T operate from Woodlands Bus Interchange to Woodlands Avenue 2 / Woodlands Centre Road.,911T,,911T,3,http://journey.smrt.com.sg/journey/bus_search/bus/911T/
+SMRT,Bus 912 operate from Woodlands Bus Interchange to Woodlands Avenue 7 / Woodlands Centre Road.,912,,912,3,http://journey.smrt.com.sg/journey/bus_search/bus/912/
+SMRT,Bus 912A operate from Woodlands Bus Interchange to Woodlands Avenue 7.,912A,,912A,3,http://journey.smrt.com.sg/journey/bus_search/bus/912A/
+SMRT,Bus 912B operate from Woodlands Bus Interchange to Woodlands Centre Road.,912B,,912B,3,http://journey.smrt.com.sg/journey/bus_search/bus/912B/
+SMRT,Bus 912M operate from Woodlands Bus Interchange to Woodlands Street 41.,912M,,912M,3,http://journey.smrt.com.sg/journey/bus_search/bus/912M/
+SMRT,Bus 913 operate from Woodlands Bus Interchange to Woodlands Circle / Marsiling MRT station.,913,,913,3,http://journey.smrt.com.sg/journey/bus_search/bus/913/
+SMRT,Bus 913M operate from Woodlands Bus Interchange to Woodlands Street 13.,913M,,913M,3,http://journey.smrt.com.sg/journey/bus_search/bus/913M/
+SBS,Bus 92 operate from Ghim Moh Bus Terminal to Science Park Drive.,92,,92,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=92
+SMRT,Bus 920 operate from Bukit Panjang Bus Interchange to Bangkit Road.,920,,920,3,http://journey.smrt.com.sg/journey/bus_search/bus/920/
+SMRT,Bus 922 operate from Bukit Panjang Bus Interchange to Bangkit Road.,922,,922,3,http://journey.smrt.com.sg/journey/bus_search/bus/922/
+SMRT,Bus 925 operate from Woodlands Temporary Bus Interchange to Choa Chu Kang Bus Interchange.,925,,925,3,http://journey.smrt.com.sg/journey/bus_search/bus/925/
+SMRT,Bus 925A operate from Woodlands Temporary Bus Interchange to Kranji Reservoir Park B.,925A,,925A,3,http://journey.smrt.com.sg/journey/bus_search/bus/925A/
+SMRT,Bus 925M operate from Woodlands Temporary Bus Interchange to Sungei Buloh Wetland Reserve.,925M,,925M,3,http://journey.smrt.com.sg/journey/bus_search/bus/925M/
+SMRT,Bus 926 operate from Woodlands Bus Interchange to Singapore Zoo.,926,,926,3,http://journey.smrt.com.sg/journey/bus_search/bus/926/
+SMRT,Bus 927 operate from Choa Chu Kang Bus Interchange to Choa Chu Kang – Bukit Panjang.,927,,927,3,http://journey.smrt.com.sg/journey/bus_search/bus/927/
+SBS,Bus 92A operate from Ghim Moh Bus Terminal to Ghim Moh Road.,92A,,92A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=92A
+SBS,Bus 92B operate from Ghim Moh Bus Terminal to Science Park Drive.,92B,,92B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=92B
+SBS,Bus 92M operate from Ghim Moh Bus Terminal to North Buona Vista Road.,92M,,92M,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=92M
+SBS,Bus 93 operate from Eunos Bus Interchange to HarbourFront Bus Interchange.,93,,93,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=93
+SBS,Bus 94 operate from Eunos Bus Interchange to Airport Road.,94,,94,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=94
+TTS,Bus 941 operate from Bukit Batok Bus Interchange to Bukit Batok West Avenue 9.,941,,941,3,https://towertransit.sg/our-routes/
+TTS,Bus 944 operate from Bukit Batok Bus Interchange to Bukit Batok Road.,944,,944,3,https://towertransit.sg/our-routes/
+TTS,Bus 945 operate from Bukit Batok Bus Interchange to Bukit Batok Street 33.,945,,945,3,https://towertransit.sg/our-routes/
+TTS,Bus 947 operate from Bukit Batok Bus Interchange to Bukit Batok Road.,947,,947,3,https://towertransit.sg/our-routes/
+SBS,Bus 94A operate from Eunos Bus Interchange to Airport Road.,94A,,94A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=94A
+SBS,Bus 95 operate from Kent Ridge Bus Terminal to Holland Road.,95,,95,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=95
+SMRT,Bus 950 operate from Woodlands Temporary Bus Interchange to JB Sentral Bus Terminal.,950,,950,3,http://journey.smrt.com.sg/journey/bus_search/bus/950/
+SMRT,Bus 951E operate from Woodlands Street 82 to Shenton Way.,951E,,951E,3,http://journey.smrt.com.sg/journey/bus_search/bus/951E/
+SBS,Bus 95B operate from Kent Ridge Bus Terminal to Buona Vista MRT station.,95B,,95B,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=95B
+TTS,Bus 96 operate from Clementi Bus Interchange to National University of Singapore.,96,,96,3,https://towertransit.sg/our-routes/
+SMRT,Bus 960 operate from Woodlands Bus Interchange to Marina Centre Bus Terminal.,960,,960,3,http://journey.smrt.com.sg/journey/bus_search/bus/960/
+SMRT,Bus 960e operate from Woodlands Bus Interchange to Marina Centre Bus Terminal.,960e,,960e,3,http://journey.smrt.com.sg/journey/bus_search/bus/960e/
+SMRT,Bus 961 operate from Woodlands Temporary Bus Interchange to Lorong 1 Geylang Bus Terminal.,961,,961,3,http://journey.smrt.com.sg/journey/bus_search/bus/961/
+SMRT,Bus 961M operate from Woodlands Temporary Bus Interchange to Lorong 1 Geylang Bus Terminal.,961M,,961M,3,http://journey.smrt.com.sg/journey/bus_search/bus/961M/
+SMRT,Bus 962 operate from Woodlands Bus Interchange to Admiralty Street.,962,,962,3,http://journey.smrt.com.sg/journey/bus_search/bus/962/
+SMRT,Bus 962B operate from Sembawang Drive (Opp Sun Plaza) to Sembawang Drive (Sembawang MRT station).,962B,,962B,3,http://journey.smrt.com.sg/journey/bus_search/bus/962B/
+SMRT,Bus 962C operate from Woodlands Avenue 5 to Woodlands Avenue 6.,962C,,962C,3,http://journey.smrt.com.sg/journey/bus_search/bus/962C/
+TTS,Bus 963 operate from Woodlands Bus Interchange to HarbourFront Bus Interchange.,963,,963,3,https://towertransit.sg/our-routes/
+TTS,Bus 963e operate from Woodlands Bus Interchange to HarbourFront Bus Interchange.,963e,,963e,3,https://towertransit.sg/our-routes/
+TTS,Bus 963R operate from Woodlands Bus Interchange to Resorts World Sentosa.,963R,,963R,3,https://towertransit.sg/our-routes/
+SMRT,Bus 964 operate from Woodlands Bus Interchange to Woodlands Link.,964,,964,3,http://journey.smrt.com.sg/journey/bus_search/bus/964/
+TTS,Bus 965 operate from Woodlands Temporary Bus Interchange to Sengkang Bus Interchange.,965,,965,3,https://towertransit.sg/our-routes/
+TTS,Bus 965A operate from Woodlands Temporary Bus Interchange to Yishun Avenue 2 (Yishun MRT station).,965A,,965A,3,https://towertransit.sg/our-routes/
+TTS,,965T,,965T,3,https://towertransit.sg/our-routes/
+TTS,Bus 966 operate from Woodlands Bus Interchange to Marine Parade Road.,966,,966,3,https://towertransit.sg/our-routes/
+TTS,Bus 966A operate from Woodlands Bus Interchange to Marine Parade Road.,966A,,966A,3,https://towertransit.sg/our-routes/
+TTS,Bus 969 operate from Woodlands Bus Interchange to Tampines Bus Interchange.,969,,969,3,https://towertransit.sg/our-routes/
+TTS,Bus 969A operate from Woodlands Bus Interchange to Yishun MRT station.,969A,,969A,3,https://towertransit.sg/our-routes/
+TTS,Bus 96A operate from Clementi Bus Interchange to National University of Singapore.,96A,,96A,3,https://towertransit.sg/our-routes/
+TTS,Bus 96B operate from National University of Singapore to Clementi MRT station.,96B,,96B,3,https://towertransit.sg/our-routes/
+TTS,Bus 97 operate from Jurong East Bus Interchange to Marina Centre Bus Terminal.,97,,97,3,https://towertransit.sg/our-routes/
+SMRT,Bus 970 operate from Bukit Panjang Bus Interchange to Shenton Way Bus Terminal.,970,,970,3,http://journey.smrt.com.sg/journey/bus_search/bus/970/
+SMRT,Bus 971 operate from [AM]Bukit Panjang Ring Road to Cecil Street.,971,,971,3,http://journey.smrt.com.sg/journey/bus_search/bus/971/
+SMRT,Bus 972 operate from Bukit Panjang Bus Interchange to Bencoolen Street.,972,,972,3,http://journey.smrt.com.sg/journey/bus_search/bus/972/
+SMRT,Bus 972A operate from Bukit Panjang Bus Interchange to Dhoby Ghaut MRT station.,972A,,972A,3,http://journey.smrt.com.sg/journey/bus_search/bus/972A/
+SMRT,Bus 972M operate from Bukit Panjang Bus Interchange to Bencoolen Street.,972M,,972M,3,http://journey.smrt.com.sg/journey/bus_search/bus/972M/
+SMRT,Bus 973 operate from Bukit Panjang Bus Interchange to Hume Avenue.,973,,973,3,http://journey.smrt.com.sg/journey/bus_search/bus/973/
+SMRT,Bus 973A operate from Bukit Panjang Bus Interchange to Pending Road.,973A,,973A,3,http://journey.smrt.com.sg/journey/bus_search/bus/973A/
+SBS,Bus 974 operate from Joo Koon Bus Interchange to Bukit Panjang MRT station.,974,,974,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=974
+SBS,Bus 974A operate from Joo Koon Bus Interchange to Choa Chu Kang Avenue 4.,974A,,974A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=974A
+SMRT,Bus 975 operate from Bukit Panjang Bus Interchange to Lim Chu Kang Road.,975,,975,3,http://journey.smrt.com.sg/journey/bus_search/bus/975/
+SMRT,Bus 975A operate from Choa Chu Kang MRT/LRT station to Brickland Road.,975A,,975A,3,http://journey.smrt.com.sg/journey/bus_search/bus/975A/
+SMRT,Bus 975B operate from Choa Chu Kang MRT/LRT station to Lim Chu Kang Road.,975B,,975B,3,http://journey.smrt.com.sg/journey/bus_search/bus/975B/
+SMRT,Bus 975C operate from Bukit Panjang Bus Interchange to Lim Chu Kang Road.,975C,,975C,3,http://journey.smrt.com.sg/journey/bus_search/bus/975C/
+SMRT,Bus 976 operate from Bukit Panjang Bus Interchange to Choa Chu Kang Bus Interchange.,976,,976,3,http://journey.smrt.com.sg/journey/bus_search/bus/976/
+SMRT,Bus 979 operate from Bukit Panjang Bus Interchange to Choa Chu Kang Crescent.,979,,979,3,http://journey.smrt.com.sg/journey/bus_search/bus/979/
+TTS,Bus 97e operate from Jurong East Bus Interchange to Marina Centre Bus Terminal.,97e,,97e,3,https://towertransit.sg/our-routes/
+TTS,Bus 98 operate from Jurong East Bus Interchange to Jurong Pier Way.,98,,98,3,https://towertransit.sg/our-routes/
+TTS,Bus 980 operate from Sembawang Bus Interchange to Lorong 1 Geylang Bus Terminal.,980,,980,3,https://towertransit.sg/our-routes/
+TTS,Bus 981 operate from [AM] Sembawang Bus Interchange to Senoko Road/Loop.,981,,981,3,https://towertransit.sg/our-routes/
+SMRT,Bus 982E operate from [AM] Choa Chu Kang Avenue 5 to Marina Boulevard.,982E,,982E,3,http://journey.smrt.com.sg/journey/bus_search/bus/982E/
+SMRT,Bus 983 operate from Choa Chu Kang Bus Interchange to Jelebu Road.,983,,983,3,http://journey.smrt.com.sg/journey/bus_search/bus/983/
+SMRT,Bus 983A operate from Choa Chu Kang Bus Interchange to Choa Chu Kang Road.,983A,,983A,3,http://journey.smrt.com.sg/journey/bus_search/bus/983A/
+SMRT,Bus 985 operate from Choa Chu Kang Bus Interchange to Lorong 1 Geylang Bus Terminal.,985,,985,3,http://journey.smrt.com.sg/journey/bus_search/bus/985/
+TTS,Bus 98A operate from Lakeside MRT station to Corporation Road.,98A,,98A,3,https://towertransit.sg/our-routes/
+TTS,Bus 98B operate from Jurong West Avenue 1 to Jurong Pier Way.,98B,,98B,3,https://towertransit.sg/our-routes/
+TTS,Bus 98M operate from Jurong East Bus Interchange to Corporation Road.,98M,,98M,3,https://towertransit.sg/our-routes/
+SBS,Bus 99 operate from Clementi Bus Interchange to Joo Koon Bus Interchange.,99,,99,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=99
+TTS,Bus 990 operate from Bukit Batok Bus Interchange to Jurong Gateway Road (Jurong East MRT station).,990,,990,3,https://towertransit.sg/our-routes/
+SMRT,Bus 991 operate from Bukit Batok Bus Interchange to Choa Chu Kang Bus Interchange.,991,,991,3,http://journey.smrt.com.sg/journey/bus_search/bus/991/
+SMRT,Bus 991A operate from Bukit Batok Bus Interchange to Bukit Batok West Avenue 3.,991A,,991A,3,http://journey.smrt.com.sg/journey/bus_search/bus/991A/
+SMRT,Bus 991B operate from Choa Chu Kang Bus Interchange to Choa Chu Kang Avenue 1.,991B,,991B,3,http://journey.smrt.com.sg/journey/bus_search/bus/991B/
+SMRT,Bus 991C operate from Choa Chu Kang Avenue 3 to Bukit Batok West Avenue 5 (Bukit Gombak MRT station).,991C,,991C,3,http://journey.smrt.com.sg/journey/bus_search/bus/991C/
+SBS,Bus 9A operate from Bedok Bus Interchange to Loyang Avenue.,9A,,9A,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=9A
+SBS,Bus CT18 operate from Bedok North Avenue 3 to Kampong Bahru Bus Terminal.,CT18,,CT18,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=CT18
+SBS,Bus CT8 operate from Ang Mo Kio Avenue 9 to Kampong Bahru Bus Terminal.,CT8,,CT8,3,https://www.sbstransit.com.sg/Service/BusService?ServiceType=Basic&ServiceNo=CT8
+TTS,,NR1,,NR1,3,https://towertransit.sg/our-routes/
+TTS,,NR2,,NR2,3,https://towertransit.sg/our-routes/
+SMRT,Bus NR3 operate from Boat Quay to Choa Chu Kang Bus Interchange.,NR3,,NR3,3,http://journey.smrt.com.sg/journey/bus_search/bus/NR3/
+SMRT,Bus NR5 operate from Marina Centre Bus Terminal to Jurong West Street 64.,NR5,,NR5,3,http://journey.smrt.com.sg/journey/bus_search/bus/NR5/
+SMRT,Bus NR6 operate from Resorts World Sentosa to Anchorvale Drive.,NR6,,NR6,3,http://journey.smrt.com.sg/journey/bus_search/bus/NR6/
+SMRT,Bus NR8 operate from Marina Centre Bus Terminal to Bukit Batok West Avenue 5.,NR8,,NR8,3,http://journey.smrt.com.sg/journey/bus_search/bus/NR8/
+SMRT,MRT line operates from CHOA CHU KANG to SENJA as well as from SENJA to CHOA CHU KANG.,BP,"('CHOA CHU KANG', 'SENJA')",BP,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/bukit_panjang_lrt.html
+SMRT,MRT line operates from DHOBY GHAUT to HARBOURFRONT as well as from HARBOURFRONT to DHOBY GHAUT.,CC,"('DHOBY GHAUT', 'HARBOURFRONT')",CC,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/circle_line.html
+SMRT,MRT line operates from PROMENADE to MARINA BAY as well as from MARINA BAY to PROMENADE.,CE,"('PROMENADE', 'MARINA BAY')",CE,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/circle_line.html
+SMRT,MRT line operates from TANAH MERAH to CHANGI AIRPORT as well as from CHANGI AIRPORT to TANAH MERAH.,CG,"('TANAH MERAH', 'CHANGI AIRPORT')",CG,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/east_west_line.html
+SMRT,MRT line operates from BUKIT PANJANG to EXPO as well as from EXPO to BUKIT PANJANG.,DT,"('BUKIT PANJANG', 'EXPO')",DT,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/downtown_line.html
+SMRT,MRT line operates from PASIR RIS to TUAS LINK as well as from TUAS LINK to PASIR RIS.,EW,"('PASIR RIS', 'TUAS LINK')",EW,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/east_west_line.html
+SMRT,MRT line operates from HARBOURFRONT to PUNGGOL as well as from PUNGGOL to HARBOURFRONT.,NE,"('HARBOURFRONT', 'PUNGGOL')",NE,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/north_east_line.html
+SMRT,MRT line operates from JURONG EAST to MARINA SOUTH PIER as well as from MARINA SOUTH PIER to JURONG EAST.,NS,"('JURONG EAST', 'MARINA SOUTH PIER')",NS,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/north_south_line.html
+SMRT,MRT line operates from PUNGGOL to DAMAI as well as from DAMAI to PUNGGOL.,PE,"('PUNGGOL', 'DAMAI')",PE,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/sengkang_punggol_lrt.html
+SMRT,MRT line operates from PUNGGOL to SOO TECK as well as from SOO TECK to PUNGGOL.,PW,"('PUNGGOL', 'SOO TECK')",PW,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/sengkang_punggol_lrt.html
+SMRT,MRT line operates from SENGKANG to RANGGUNG as well as from RANGGUNG to SENGKANG.,SE,"('SENGKANG', 'RANGGUNG')",SE,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/sengkang_punggol_lrt.html
+SMRT,MRT line operates from SENGKANG to RENJONG as well as from RENJONG to SENGKANG.,SW,"('SENGKANG', 'RENJONG')",SW,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/sengkang_punggol_lrt.html
+SMRT,MRT line operates from WOODLANDS NORTH to WOODLANDS SOUTH as well as from WOODLANDS SOUTH to WOODLANDS NORTH.,TE,"('WOODLANDS NORTH', 'WOODLANDS SOUTH')",TE,1,https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/thomson_east_coast_line.html

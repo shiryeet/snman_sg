@@ -1,0 +1,6 @@
+agency_id,agency_name,agency_url,agency_timezone
+SMRT,SMRT,http://smrt.com.sg,Asia/Singapore
+SBS,SBST,http://sbstransit.com.sg,Asia/Singapore
+LTA,LTA,http://www.lta.gov.sg,Asia/Singapore
+GAS,GAS,https://go-aheadsingapore.com,Asia/Singapore
+TTS,TTS,https://towertransit.sg,Asia/Singapore
