@@ -32,9 +32,9 @@ def read_gtfs(GTFS_table_name):
 
 def build_lines(shapes_table):
     shapes_table = shapes_table.copy()
-    shapes_table['shape_pt_sequence'] = pd.to_numeric(shapes_table['shape_pt_sequence'])
-    shapes_table['shape_pt_lat'] = pd.to_numeric(shapes_table['shape_pt_lat'])
-    shapes_table['shape_pt_lon'] = pd.to_numeric(shapes_table['shape_pt_lon'])
+    shapes_table['shape_pt_sequence'] = pd.to_numeric(shapes_table['shape_pt_sequence'], errors='coerce')
+    shapes_table['shape_pt_lat'] = pd.to_numeric(shapes_table['shape_pt_lat'], errors='coerce')
+    shapes_table['shape_pt_lon'] = pd.to_numeric(shapes_table['shape_pt_lon'], errors='coerce')
 
     shapes_table = shapes_table.dropna(subset=['shape_id', 'shape_pt_lat', 'shape_pt_lon', 'shape_pt_sequence'])
     shapes_table = shapes_table.sort_values(['shape_id', 'shape_pt_sequence'])
