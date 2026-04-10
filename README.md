@@ -1,3 +1,11 @@
+# SNMan Singapore Adaptation
+This repository is a fork/adaptaion of the SNMan project, and focuses on applying SNMan to Singapore, with Agent Based Modelling exploration.
+For project-specific notes, see:
+- [DSA4288_README.md](DSA4288_README.md)
+- [sg/README.md](sg/README.md)
+
+---
+
 # SNMan
 
 **SNMan** (Street Network Manipulator) is a Python toolkit that lets you model urban mobility transitions in
