@@ -380,7 +380,7 @@ class Network(Model):
         lanetype = edge_data.get("lanetype")
         length_m = edge_data.get("length", 0)
 
-        # jam space is how many cars per m per lane
+        # jam space is how many meters per vehicle when its a jam condition
         if lanetype == "H":
             jam_space_m = 8
         elif lanetype == "M":
