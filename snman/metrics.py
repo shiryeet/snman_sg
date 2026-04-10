@@ -126,7 +126,7 @@ def metrics_for_lane_graph(
         mode=MODE_PRIVATE_CARS,
         buffer=20,
         export_buffered_geometry=False,
-        crs=2056
+        crs=3414
 ):
 
     measurement_regions_buffered = copy.deepcopy(measurement_regions)

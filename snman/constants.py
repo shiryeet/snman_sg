@@ -102,7 +102,7 @@ LANE_TYPES = {
         {'width': 4.0, 'order': 0, 'cycling_vod': 0, 'modes': [MODE_PRIVATE_CARS, MODE_TRANSIT]},
     LANETYPE_HIGHWAY + DIRECTION_BOTH:
         {'width': 6.0, 'order': 0, 'cycling_vod': 0, 'modes': [MODE_PRIVATE_CARS, MODE_TRANSIT]},
-
+#changing from 3 to 3.2 for singapore context?
     LANETYPE_MOTORIZED + DIRECTION_FORWARD:
         {'width': 3.0, 'order': 1, 'cycling_vod': 0,
          'modes': [MODE_PRIVATE_CARS, MODE_TRANSIT, MODE_CYCLING, MODE_PEDELEC, MODE_S_PEDELEC, MODE_FOOT]},
@@ -338,8 +338,8 @@ OSM_FILTER = [
     #    f'escalator|planned|platform|proposed|raceway|construction"]'
     #)
 ]
-
-DEFAULT_CRS = 'epsg:2056'
+# changed from 2056 to 3414
+DEFAULT_CRS = 'epsg:3414'
 
 EXPORT_EDGE_COLUMNS = [
     'grade',
