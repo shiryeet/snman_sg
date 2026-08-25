@@ -13,7 +13,7 @@ The project applies SNMan to Singapore's street network, and investigates the po
 
 ## Main modifications from upstream
 - Singapore-specific geospatial inputs and configuration of SNMan
-- notebooks and scrips for Singapore-specific analysis
+- notebooks and scripts for Singapore-specific analysis
 - Agent Based Model implementation and exploratory work (in `sg/ABM/`)
 
 ## Notes
